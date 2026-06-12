@@ -1,0 +1,41 @@
+store_id,name,quantity,unit,product_id,created_at,updated_at
+henderson,12oz Compostable Cups,7,boxes,eb3a3401-692d-4f16-a38a-4910021699cf,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+henderson,Almond Milk,10,cartons,30cf1120-45f7-4029-8610-c0cb1d0685f6,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+henderson,Blueberry Muffins (Frozen),22,units,06bc4e12-e301-49b6-812a-0210727f6dcb,2026-06-12T20:00:00+00:00,2026-06-12T20:30:28+00:00
+henderson,Caramel Syrup,6,bottles,271f7308-d253-4003-80e5-b9fcc270fdbb,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+henderson,Colombia Huila Beans,8,bags,cde83e52-69b5-4b04-979d-f96adaa80671,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+henderson,Croissants (Frozen),24,units,ccd743cd-7482-47eb-bb35-6bffac74c32f,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+henderson,Cup Lids,9,boxes,6abca5ae-116d-4db4-97f6-e6cce869ea52,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+henderson,Dark Chocolate Shavings,5,lbs,f6d6b00f-ebcd-4ce3-b0cd-fa7c4d3e0a8b,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+henderson,Decaf Swiss Water Process,5,bags,dcae7462-e158-4fe6-8e4e-106df012c0fc,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+henderson,Earl Grey Loose Leaf,6,lbs,690a9278-9af0-48b8-a31d-4a46fdaa2827,2026-06-12T20:00:00+00:00,2026-06-12T20:30:24+00:00
+henderson,Espresso Machine Filters,15,units,fe1cfa0b-f138-4157-b858-a9fbe8b22928,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+henderson,Ethiopian Yirgacheffe Beans,6,bags,1ef75361-eedf-413a-bb1e-743fb64fc8e7,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+henderson,House Espresso Blend,12,bags,f716fd69-c680-46a9-981e-1d35e44d714d,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+henderson,Lavender Syrup,2,bottles,44e2821d-d839-4aca-9424-c7759bbfd5d9,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+henderson,Matcha Ceremonial Grade,3,lbs,a5c6d8e0-7c8d-4b87-966c-c1e153bcd330,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+henderson,Oat Milk,18,cartons,10b5174a-5146-4130-8ea9-93cf238d0168,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+henderson,Paper Sleeves,11,boxes,73858edf-6520-493f-bfe4-9b336d5edc23,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+henderson,Raw Sugar Packets,6,boxes,a7ed3dd3-12ba-451f-b043-f11c65c44242,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+henderson,Vanilla Syrup,4,bottles,4f340d46-fa4b-4c5e-924c-31c79d9807ba,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+henderson,Whole Milk,8,gallons,b63a9255-2123-4e74-8b70-4675ba87014e,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,12oz Compostable Cups,5,boxes,1ff6903a-2102-4477-9bfd-ab361b58df77,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,Almond Milk,7,cartons,832a7717-b0a2-46ab-8112-c2ca40ba7820,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,Blueberry Muffins (Frozen),15,units,06d077d3-9e90-4534-b928-d14998859dca,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,Caramel Syrup,5,bottles,c4b1790e-a0ea-4535-9189-cb0803381944,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,Colombia Huila Beans,5,bags,a1c0eaed-ee1f-44fa-b65f-5248e22845e6,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,Croissants (Frozen),18,units,d7c6660d-a144-4e72-b49e-394ed0507e3d,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,Cup Lids,6,boxes,2580b2d0-da32-4d85-891d-b26c8e188251,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,Dark Chocolate Shavings,4,lbs,c2276f68-6551-42e1-b62c-eba72e5dd311,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,Decaf Swiss Water Process,3,bags,0cc2e7d8-5430-4e72-9857-d043f8843147,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,Earl Grey Loose Leaf,3,lbs,400422f9-0c3f-4dce-951e-f00dcafe585c,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,Espresso Machine Filters,12,units,64fcc14f-ed31-48c8-8b5a-74b873985337,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,Ethiopian Yirgacheffe Beans,4,bags,df87e51f-e507-4893-99a5-f520d0fb3d50,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,House Espresso Blend,9,bags,68293ae0-a6ca-4920-9078-f5e2af1b9cec,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,Lavender Syrup,2,bottles,5e64b5cd-d587-47ef-8160-c8b889a64b09,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,Matcha Ceremonial Grade,2,lbs,343107be-20bc-4e6b-9a8c-829a740ecfd8,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,Oat Milk,14,cartons,be3323d9-dab9-4325-a1fe-91cfc5ac3c2d,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,Paper Sleeves,8,boxes,8f4e3e4f-9842-484e-b43c-6a079e2d5ada,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,Raw Sugar Packets,4,boxes,321a8d70-49f9-4637-8ce8-432fab3af591,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,Vanilla Syrup,3,bottles,6ede5fab-8387-4366-97e8-11ed26c4433c,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
+las-vegas,Whole Milk,6,gallons,b544e9a9-568f-476e-83ba-c9ea914b281e,2026-06-12T20:00:00+00:00,2026-06-12T20:00:00+00:00
